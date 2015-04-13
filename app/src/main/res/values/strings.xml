@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Four Screen App</string>
+
+    <string name="edit_MSG1">This is screen 1</string>
+    <string name="edit_MSG2">This is screen 2</string>
+    <string name="edit_MSG3">This is screen 3</string>
+    <string name="edit_MSG4">This is screen 4</string>
+    <string name="btnScreenOne">GoTo Screen 2</string>
+    <string name="btnScreenTwo">GoTo Screen 3</string>
+    <string name="btnScreenThree">GoTo Screen 4</string>
+    <string name="btnScreenFour">GoTo Screen 1</string>
+    <string name="title_activity_second_scr">Second screen</string>
+    <string name="title_activity_third_scr">Third screen</string>
+    <string name="title_activity_four_scr">Fourth screen</string>
+</resources>
